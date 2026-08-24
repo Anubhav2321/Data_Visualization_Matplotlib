@@ -194,6 +194,7 @@ This repository is primarily created for **learning, practicing, and documenting
 If you are also learning Matplotlib, feel free to explore the examples and use them for your own learning and practice.
 
 ---
+## Matplotlib Visualizations
 
 ## 📜 License
 
