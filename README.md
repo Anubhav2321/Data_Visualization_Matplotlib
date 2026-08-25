@@ -184,6 +184,7 @@ Techno India University, West Bengal
 ### Connect With Me
 
 * GitHub: [Anubhav2321](https://github.com/Anubhav2321)
+* Mail: anubhavsamanta2005@gmail.com
 
 ---
 
