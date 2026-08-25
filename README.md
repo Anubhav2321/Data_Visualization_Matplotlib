@@ -184,6 +184,7 @@ Techno India University, West Bengal
 ### Connect With Me
 
 * GitHub: [Anubhav2321](https://github.com/Anubhav2321)
+* Mail: anubhavsamanta2005@gmail.com
 
 ---
 
@@ -194,6 +195,7 @@ This repository is primarily created for **learning, practicing, and documenting
 If you are also learning Matplotlib, feel free to explore the examples and use them for your own learning and practice.
 
 ---
+## Matplotlib Visualizations
 
 ## 📜 License
 
