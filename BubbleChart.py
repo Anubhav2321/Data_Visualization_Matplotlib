@@ -1,17 +1,13 @@
-import numpy as np
 import matplotlib.pyplot as plt
 
-n = 50
-x = np.random.rand(n) * 100
-y = np.random.rand(n) * 100
+x = [1, 2, 3, 4, 5]
+y = [10, 20, 15, 30, 25]
+size = [100, 200, 300, 400, 500]
 
-size = np.random.rand(n) * 1000 + 50
+plt.scatter(x, y, s=size)
 
-plt.scatter(x, y, s=size, alpha=0.5)
-
-plt.title("Bubble Chart")
+plt.title("Simple Bubble Chart")
 plt.xlabel("X Values")
 plt.ylabel("Y Values")
 
-plt.grid(True)
 plt.show()
